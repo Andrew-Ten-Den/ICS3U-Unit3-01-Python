@@ -17,7 +17,7 @@ def main():
 
     # output
     print("")
-    print("{} + {} = {}".format(integer1, integer2, total))
+    print("{0} + {1} = {2}".format(integer1, integer2, total))
     print("")
     print("Done")
 
